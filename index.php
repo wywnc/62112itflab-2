@@ -13,10 +13,7 @@
             <div class="col">
                 <div class="card">
                     <div class="col-sm-6">
-                        <img class="card-img-top" 
-                        src="img/work1.jpg" 
-                        style="height: 90%; width: 100%"
-                        class="img-fluid">
+                        <img class="card-img-top" src="office1.jpg" style="height: 90%; width: 100%" class="img-fluid">
                     </div>
                     <div class="card-header bg-danger text-white" >
                         <h4>Hot news</h4>
@@ -34,10 +31,7 @@
             <div class="col">
         <div class="card">
                     <div class="col-sm-8">
-                    <img class="card-img-top" 
-                    src="img/office5.jpg"
-                    style="height: 90%; width: 100%"
-                    class="img-fluid">
+                    <img class="card-img-top" src="office10.jpg" style="height: 90%; width: 100%" class="img-fluid">
                     </div>
                     <div class="card-header bg-danger text-white" >
                         <h4>Hot news</h4>
@@ -55,10 +49,7 @@
             <div class="col">
         <div class="card">
                     <div class="col-sm-30">
-                    <img class="card-img-top" 
-                    src="img/banner1.jpg"
-                    style="height: 90%; width: 100%"
-                    class="img-fluid">
+                    <img class="card-img-top" src="office12.jpg" style="height: 90%; width: 100%" class="img-fluid">
                     </div>
                     <div class="card-header bg-danger text-white" >
                         <h4>Hot news</h4>
