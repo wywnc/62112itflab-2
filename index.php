@@ -17,7 +17,13 @@
                     </div>
                 </div>
                 <div class="card">
-                        <img class="card-img-top" src="office1.jpg">
+                        <img class="card-img-top" src="office10.jpg">
+                    <div class="card-body">
+                        <p>Lorem ipsum dolor, sit amet consectetur!</p>
+                    </div>
+                </div>
+                <div class="card">
+                        <img class="card-img-top" src="office12.jpg">
                     <div class="card-body">
                         <p>Lorem ipsum dolor, sit amet consectetur!</p>
                     </div>
